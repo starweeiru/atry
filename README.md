@@ -9,7 +9,7 @@
 - **专长**：Web开发、数据科学、机器学习
 - **兴趣爱好**：编程、阅读、旅游
 
-![个人照片]([https://bkimg.cdn.bcebos.com/pic/77c6a7efce1b9d1676945943fedeb48f8c546445?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080])
+![个人照片](https://bkimg.cdn.bcebos.com/pic/77c6a7efce1b9d1676945943fedeb48f8c546445?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080)
 
 ## 技能
 
