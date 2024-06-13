@@ -9,6 +9,8 @@
 - **专长**：Web开发、数据科学、机器学习
 - **兴趣爱好**：编程、阅读、旅游
 
+![个人照片]([https://example.com/your-photo.jpg](https://th.bing.com/th/id/R.a43439124ee7e584ce41b7f7fd74161f?rik=UHricIfOUBNEyQ&riu=http%3a%2f%2fd.ifengimg.com%2fq100%2fimg1.ugc.ifeng.com%2fnewugc%2f20190422%2f10%2fwemedia%2fcb4530f158dea9f645628a38cc1491dfa59c56cd_size1095_w2200_h3300.jpg&ehk=iVtdh4um4iDS11dl0ELsGA2k195vKZqxnB3fewipMEw%3d&risl=&pid=ImgRaw&r=0))
+
 ## 技能
 
 - **编程语言**：JavaScript, Python, Java
@@ -32,6 +34,8 @@
 
 - **技术栈**：Python, Pandas, Django
 - **链接**： [数据分析平台](http://example.com)
+
+![项目截图](https://example.com/project-screenshot.jpg)
 
 ## 联系方式
 
